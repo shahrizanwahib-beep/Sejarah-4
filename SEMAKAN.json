@@ -1,0 +1,33 @@
+{
+  "slides": 33,
+  "audio_files": 43,
+  "playback_rate": 1.1,
+  "planned_seconds_from_audio": 1300.9472727272725,
+  "status": "Verified synced revision",
+  "highlight_method": "Five cues per content page derived from Microsoft WordBoundary offsets; cues compared against actual media currentTime",
+  "highlight_checks": 100,
+  "highlight_failures": 0,
+  "live_audio_checks": {
+    "01-bm.mp3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "01-en.mp3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "labels_visible": false,
+  "raw_audio_seconds": 1278.912,
+  "audio_after_rate_seconds": 1162.6472727272726,
+  "mcq_wait_seconds": 70,
+  "content_pause_seconds": 20,
+  "transition_seconds": 48.3,
+  "duration_note": "Nominal duration calculated from actual MP3 metadata. Loading and manual pauses may extend wall time."
+}
