@@ -1,0 +1,1 @@
+Extract ZIP ini. Di repository Sejarah-4, pilih Add file > Upload files. Seret folder audio, transition, sync dan fail jawapan-murid.html ke kawasan upload. Jangan seret isi audio sahaja; kekalkan nama folder. Commit changes dan tunggu deployment GitHub Pages selesai. Uji /Sejarah-4/audio/intro-01.mp3 dan kemudian refresh halaman tayangan.

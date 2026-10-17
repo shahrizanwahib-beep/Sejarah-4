@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "sheets": {
+    "jurucerita": "jurucerita-sheet.png",
+    "pengembara": "pengembara-sheet.png",
+    "pendekar": "pendekar-sheet.png"
+  },
+  "grid": [
+    3,
+    2
+  ],
+  "poses": 6,
+  "durations_seconds": [
+    6.5,
+    7.5,
+    3
+  ],
+  "status": "mock animation, pending user review",
+  "walk_sheet": "walk-cycle-normal-v3.png",
+  "walk_grid": [
+    4,
+    2
+  ]
+}
